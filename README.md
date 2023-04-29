@@ -1,5 +1,3 @@
-# project2
-
 # Group Project 2 Team 12482_1
 
 # Dataset
